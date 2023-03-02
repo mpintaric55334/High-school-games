@@ -1,0 +1,18 @@
+C:\Users\Matija\Desktop\VJESALA\Vjesala\Vjesala\bin\Debug\Vjesala.exe
+C:\Users\Matija\Desktop\VJESALA\Vjesala\Vjesala\bin\Debug\Vjesala.pdb
+C:\Users\Matija\Desktop\VJESALA\Vjesala\Vjesala\obj\Debug\Vjesala.csproj.AssemblyReference.cache
+C:\Users\Matija\Desktop\VJESALA\Vjesala\Vjesala\obj\Debug\Vjesala.Form1.resources
+C:\Users\Matija\Desktop\VJESALA\Vjesala\Vjesala\obj\Debug\Vjesala.Properties.Resources.resources
+C:\Users\Matija\Desktop\VJESALA\Vjesala\Vjesala\obj\Debug\Vjesala.csproj.GenerateResource.cache
+C:\Users\Matija\Desktop\VJESALA\Vjesala\Vjesala\obj\Debug\Vjesala.csproj.CoreCompileInputs.cache
+C:\Users\Matija\Desktop\VJESALA\Vjesala\Vjesala\obj\Debug\Vjesala.exe
+C:\Users\Matija\Desktop\VJESALA\Vjesala\Vjesala\obj\Debug\Vjesala.pdb
+C:\Users\Matija\Desktop\Visual studio pizdarije\VJESALA\Vjesala\Vjesala\bin\Debug\Vjesala.exe
+C:\Users\Matija\Desktop\Visual studio pizdarije\VJESALA\Vjesala\Vjesala\bin\Debug\Vjesala.pdb
+C:\Users\Matija\Desktop\Visual studio pizdarije\VJESALA\Vjesala\Vjesala\obj\Debug\Vjesala.csproj.AssemblyReference.cache
+C:\Users\Matija\Desktop\Visual studio pizdarije\VJESALA\Vjesala\Vjesala\obj\Debug\Vjesala.Form1.resources
+C:\Users\Matija\Desktop\Visual studio pizdarije\VJESALA\Vjesala\Vjesala\obj\Debug\Vjesala.Properties.Resources.resources
+C:\Users\Matija\Desktop\Visual studio pizdarije\VJESALA\Vjesala\Vjesala\obj\Debug\Vjesala.csproj.GenerateResource.cache
+C:\Users\Matija\Desktop\Visual studio pizdarije\VJESALA\Vjesala\Vjesala\obj\Debug\Vjesala.csproj.CoreCompileInputs.cache
+C:\Users\Matija\Desktop\Visual studio pizdarije\VJESALA\Vjesala\Vjesala\obj\Debug\Vjesala.exe
+C:\Users\Matija\Desktop\Visual studio pizdarije\VJESALA\Vjesala\Vjesala\obj\Debug\Vjesala.pdb
